@@ -46,3 +46,8 @@ Hello! My name is Onelky and I like creating things that live on the internet. D
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onelky)](https://github.com/anuraghazra/github-readme-stats)
+
+
